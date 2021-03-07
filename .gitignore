@@ -23,3 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 amazona-app-code-workspace.code-workspace
 frontend/package-lock.json
+frontend/package-lock.json
